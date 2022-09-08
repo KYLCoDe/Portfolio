@@ -1,0 +1,74 @@
+body{
+    background-color: #FFFFFF;
+}
+
+.containerMain{
+    text-align:center;
+    color:#0B0704;
+    background-color:#BDB8AF;
+    height: 500px;
+    background-size: cover;
+}
+.section{
+    text-align: center;
+}
+
+.navbar-brand {
+  margin-left: 6em;
+}
+
+.navbar-nav {
+    margin-left: 45em;
+}
+.sayHi {
+    width: 6em;
+    height: 2em;
+}
+
+.subheading{
+    text-align:center;
+}
+
+h1{
+    font-size: 3em;
+    padding: 1em;
+    font-weight: bolder;
+}
+
+h2{
+    color:#4B3F44 ;
+    font-size: xx-large;
+}
+
+h3{
+    color:#4B3F44; 
+}
+
+p {
+  text-align: center;
+  font-size: small;
+}
+
+a{
+    color:#000000;
+    padding: 1em;
+    text-decoration:solid;
+    font-weight: 500;
+}
+
+
+.bold {
+    color:#93B498;
+    font-size: small;
+    font-style: italic;
+}
+
+.image{
+    height: 75%;
+}
+
+.letter {
+    color:#CB977C; 
+    font-weight: bold;
+    font-size:xx-large;
+}
